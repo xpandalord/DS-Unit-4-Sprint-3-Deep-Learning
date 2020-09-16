@@ -11,3 +11,8 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+
+1. What can we do to improve computer storage?
+
+2. How do we classify ethic problems when computers are driving cars?
